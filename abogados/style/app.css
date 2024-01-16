@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    display: none;
+    background-color: red;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: red;
+}
+
+main{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: red;
+    width: 80%;
+}
